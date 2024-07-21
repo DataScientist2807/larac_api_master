@@ -7,7 +7,7 @@ final class Abilities {
     public const CreateTicket = 'ticket:create';
     public const UpdateTicket = 'ticket:update';
     public const ReplaceTicket = 'ticket:replace';
-    public const Deleteicket = 'ticket:delete';
+    public const DeleteTicket = 'ticket:delete';
 
     public const CreateOwnTicket = 'ticket:own:create';
     public const UpdateOwnTicket = 'ticket:own:update';
