@@ -24,7 +24,7 @@ final class Abilities {
                 self::CreateTicket,
                 self::UpdateTicket,
                 self::ReplaceTicket,
-                self::Deleteicket,
+                self::DeleteTicket,
                 self::CreateUser,
                 self::UpdateUser,
                 self::ReplaceUser,
